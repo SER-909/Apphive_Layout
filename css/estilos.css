@@ -1,0 +1,69 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Inicio h2{
+    color: orange;
+    font-size: 30px;
+}
+.Inicio h5{
+    color: blue;
+}
+li a{
+    text-decoration: none;
+}
+
+.Subtitulo_1 h2{
+    color: blue;
+    font-size: 30px;
+}
+.Subtitulo_1 h5{
+    font-size: 13px;
+    color: blue;
+}
+.Cajas h3{
+color: blue;
+}
+.Cajas p{
+    color: #9c9c9c;
+}
+.Parte_2{
+    color: blue;
+}
+.Subtitulo_2 h2{
+    font-size: 30px;
+}
+.Subtitulo_2 h5{
+    font-size: 13px;
+}
+.Descripcion h5{
+    color: blue;
+}
+.Descripcion h2{
+    color: orange;
+    font-size: 30px;
+}
+.Descripcion p{
+    color: #9c9c9c;
+}
+.Enviar{
+    background-color: blue;
+    color: white;
+}
+.Comenzar{
+    color: orange;
+    border-radius: 4px;
+    margin: solid orange 5px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.Comenzar_2{
+    color: blue;
+    border-radius: 4px;
+    
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.Parte_2{
+    background-color:  #9c9c9c;
+}
